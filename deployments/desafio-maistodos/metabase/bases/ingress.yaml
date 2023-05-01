@@ -22,6 +22,6 @@ spec:
           service:
             name: metabase-svc
             port:
-              number: 5030
+              number: 3000
         path: /*
         pathType: ImplementationSpecific
