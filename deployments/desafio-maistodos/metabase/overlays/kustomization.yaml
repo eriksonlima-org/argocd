@@ -4,4 +4,4 @@ bases:
 images:
 - name: 021708085540.dkr.ecr.us-east-1.amazonaws.com/eriksonlima/maistodos
   newName: 021708085540.dkr.ecr.us-east-1.amazonaws.com/eriksonlima/maistodos
-  newTag: SNAPSHOT-d84d7e7
+  newTag: SNAPSHOT-2693222
