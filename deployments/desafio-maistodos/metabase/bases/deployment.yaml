@@ -15,7 +15,7 @@ spec:
         app: metabase
     spec:
       containers:             
-      - image: 686781816359.dkr.ecr.us-east-1.amazonaws.com/korporate/stacy-api:RELEASE-1.0-6ed1461
+      - image: 021708085540.dkr.ecr.us-east-1.amazonaws.com/eriksonlima/maistodos:SNAPSHOT-77f5797
         imagePullPolicy: IfNotPresent    
         name: metabase
         resources:
